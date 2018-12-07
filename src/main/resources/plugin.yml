@@ -1,0 +1,13 @@
+name: ClearChat
+author: Trophonix
+version: ${project.version}
+main: com.trophonix.clearchat.ClearChat
+api-version: 1.13
+permissions:
+  clearchat.clear:
+    description: Allows the player to clear chat
+  clearchat.immune:
+    description: Makes the player immune to clearchat
+    default: false
+  clearchat.privileged:
+    description: Allows the player to see the privileged clear message

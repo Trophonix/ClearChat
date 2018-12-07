@@ -1,0 +1,23 @@
+#
+# Placeholders
+#
+# ---------------
+#
+# {player} The player who cleared the chat.
+#
+
+defaultMessage:
+  - "&bChat was cleared!"
+
+privilegedMessage:
+  - "&bChat was cleared by {player}!"
+
+prefix: "&7ClearChat >> "
+
+emptyLines: 250
+
+commandAliases:
+  - "clearchat"
+  - "clear"
+
+insufficientPermissions: "&cInsufficient permissions!"

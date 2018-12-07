@@ -1,0 +1,19 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+
+out/
+target/
+.idea/
+.project
+*.iml
+
+.DS_Store
+.classpath
+org.eclipse.*
+*.lst
+pom.properties
